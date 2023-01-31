@@ -16,7 +16,10 @@ D-3,H-J,.....
 ```
 
 ### Answers:
-#### a) Installation Steps
+#### a) System Requirements
+- PHP version ^7.3 | >= 8.0
+
+#### b) Installation Steps
 
 1. Clone this project to your folder you want
 
